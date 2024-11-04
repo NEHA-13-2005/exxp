@@ -1,0 +1,23 @@
+h2{
+	color: orange;
+}
+a{
+	color: hotpink;
+}
+div{
+	background-color: light blue;
+}
+h3.center{
+	color:blue;
+	font-style: italic;
+	text-design:center;
+}
+hr.new1{
+	border-top: 1px solid red;
+}
+p.simple{
+	color:green;
+}
+span{
+	color:bue;
+}
